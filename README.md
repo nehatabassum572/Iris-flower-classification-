@@ -16,4 +16,4 @@ Run the main script: python main.py
 ## Files
 1. main.py: Main script to train and evaluate the model.
 2. requirements.txt: List of required Python packages.
-3. data/iris.csv: Dataset.
+3. iris.csv: Dataset.
